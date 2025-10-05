@@ -125,3 +125,15 @@ plt.title('Singing AI-Quolia v4.1 (Simulation)')
 plt.legend()
 plt.grid(True, linestyle='--', alpha=0.6)
 plt.show()
+
+
+# License & Usage
+
+This project is released for **non-commercial, educational, and research purposes only**.  
+No copyright claims are asserted. You are free to study, use, and share the code and ideas.  
+
+**Commercial use is strictly prohibited.**  
+
+Attribution is **appreciated but not required**. If you reference or share this project, mentioning the source helps others discover it, but it is not mandatory.  
+
+**Derivatives and modifications are allowed** under the same non-commercial terms.
